@@ -1,0 +1,63 @@
+:root {
+  --teal-900: #16393d;
+  --teal-800: #1c4a4f;
+  --teal-700: #23585d;
+  --teal-100: #dfe9e8;
+  --gold: #e5b52e;
+  --gold-dark: #c99a1c;
+
+  --bg: #ffffff;
+  --bg-soft: #eef2f1;
+  --border: #dbe3e1;
+  --text: #17252a;
+  --text-muted: #5c7073;
+
+  --shadow-card: 0 8px 20px rgba(20, 45, 48, 0.08);
+
+  --sans: 'Segoe UI', system-ui, Roboto, sans-serif;
+
+  font: 16px/1.45 var(--sans);
+  color-scheme: light;
+  color: var(--text);
+  background: var(--bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  font-weight: 600;
+}
+
+p {
+  margin: 0;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+}
+
+input,
+select {
+  font: inherit;
+}
+
+a {
+  color: inherit;
+}
