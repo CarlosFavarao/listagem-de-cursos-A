@@ -205,7 +205,13 @@ O custo foi calculado pelo próprio Claude;
 
 **Print — Retorno do Claude ao dar um /usage**
 
+>Consumo (Contexto mínimo)
+
 ![ImagemConsumo](Provas/consumo-primeira-tentativa.png)
+
+>Consumo (Contexto Ampliado)
+
+![ImagemConsumo](Provas/consumo-segunda-tentativa.jpeg)
 
 # 6. Projeto publicado
 
